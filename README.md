@@ -2,7 +2,7 @@
 
 ## Description
 
-``reg`` file for NO MORE "CapsLock" forever.
+reg file for NO MORE "CapsLock" forever.
 
 ## Requirement
 
@@ -10,7 +10,7 @@
 
 ## Usage
 
-Launch `RegisterDisableCapsLock.reg`.
+Launch RegisterDisableCapsLock.reg.
 
 ## Install
 
